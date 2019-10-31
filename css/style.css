@@ -2,5 +2,11 @@
     text-align:center;
 }
 body{
-    background:pink;
+    background: #A8DE23;
+    font-family: 'Roboto Slab', serif;
 }
+
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+
